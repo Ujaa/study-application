@@ -16,7 +16,7 @@ https://github.com/Ujaa/study-application/assets/40076944/f96f627a-af06-4241-a07
 
 # Project 03 - framer motion + 3D [링크](https://nextjs-final-project.vercel.app/)
 
-'Next.js`와 `css`를 사용했습니다.<br/>
+`Next.js`와 `css`를 사용했습니다.<br/>
 css를 이용하여 책을 3D처럼 나타내 입체감 있게 표현했습니다.
 
 ![Slide 16_9 - 6](https://github.com/Ujaa/study-application/assets/40076944/80c214bd-728f-4b2a-8218-050418710cd0)
